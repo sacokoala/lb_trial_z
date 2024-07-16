@@ -14,8 +14,7 @@ LastBattalion Trial Patch for X68000Z   by sacokoala
 
 ## ライセンス
 
-- このパッチ自体は MIT ですが、「ラストバタリオン　店頭デモ版」本体は、
-- 株式会社スティング 様の著作物です。取り扱いに注意してください。
+- このパッチ自体は MIT ですが、「ラストバタリオン　店頭デモ版」本体は、株式会社スティング 様の著作物です。取り扱いに注意してください。
 
 - ラストバタリオン（公式HP）
 - https://www.sting.co.jp/play/battalion/index.htm
